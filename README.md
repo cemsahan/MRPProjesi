@@ -1,6 +1,6 @@
 # MRP Projesi
 
-MRP(Material Requirements Planning)(Malzeme İhtiyaç Planlaması)
+MRP(Material Requirements Planning)
 
 MRP' nin kelime anlamı malzeme ihtiyaç planlamasıdır. 1970'li yıllarda yaygın olarak kullanılan MRP stok yönetimi için kullanılan bir metottur ve neye, ne miktarda, ne zaman ihtiyaç duyuluyor sorularının yanıtlarını arar. Yani, MRP'nin ana temasının, doğru malzemeleri, doğru miktarda, doğru zamanda almak olduğu söylenebilir.
 
