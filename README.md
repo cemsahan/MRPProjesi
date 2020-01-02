@@ -32,7 +32,7 @@ Projenin Depo modülünde;
       
       
       
-#Projeye Ait Ekran Görüntüleri
+# Projeye Ait Ekran Görüntüleri
 
-Şirket Modülü
+ Şirket modülü ekran görüntüleri:
 
