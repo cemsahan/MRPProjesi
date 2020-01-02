@@ -53,6 +53,22 @@ Projenin Depo modülünde;
 -----------------------------------------------------------------------------------------
 ![ ](https://github.com/cemsahan/MRPYazilimi/blob/master/images/sirketModulu6.png)
 -----------------------------------------------------------------------------------------
+Depo modulü ekran görüntüleri:
+-----------------------------------------------------------------------------------------
+![ ](https://github.com/cemsahan/MRPYazilimi/blob/master/images/depoModulu0.png)
+-----------------------------------------------------------------------------------------
+![ ](https://github.com/cemsahan/MRPYazilimi/blob/master/images/depoModulu1.png)
+-----------------------------------------------------------------------------------------
+![ ](https://github.com/cemsahan/MRPYazilimi/blob/master/images/depoModulu2.png)
+-----------------------------------------------------------------------------------------
+![ ](https://github.com/cemsahan/MRPYazilimi/blob/master/images/depoModulu3.png)
+-----------------------------------------------------------------------------------------
+![ ](https://github.com/cemsahan/MRPYazilimi/blob/master/images/depoModulu4.png)
+-----------------------------------------------------------------------------------------
+Veri tabanı yapısı:
+-----------------------------------------------------------------------------------------
+![ ](https://github.com/cemsahan/MRPYazilimi/blob/master/images/veritabanıERGorunum.png)
+-----------------------------------------------------------------------------------------
 
 
 
