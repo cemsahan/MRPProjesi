@@ -34,5 +34,26 @@ Projenin Depo modülünde;
       
 # Projeye Ait Ekran Görüntüleri
 
- Şirket modülü ekran görüntüleri:
+Şirket modülü ekran görüntüleri:
+-----------------------------------------------------------------------------------------
+![ ](https://github.com/cemsahan/MRPYazilimi/blob/master/images/depoModulu0.png)
+----------------------------------------------------------------------------------------- 
+![ ](https://github.com/cemsahan/MRPYazilimi/blob/master/images/depoModulu0.png)
+ -----------------------------------------------------------------------------------------
+![ ](https://github.com/cemsahan/MRPYazilimi/blob/master/images/depoModulu0.png)
+-----------------------------------------------------------------------------------------
+![ ](https://github.com/cemsahan/MRPYazilimi/blob/master/images/depoModulu0.png)
+-----------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
 
