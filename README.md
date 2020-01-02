@@ -6,9 +6,9 @@ Projenin şirket modülünde;
 
       • Proje ekleme,silme ve güncelleme
 
-      • Proje malzemelerini şirket deposu ile karşılaştırma, eksik malzemeler için bir satın alım listesi oluşturma 
-
-        ve  dış depolardaki malzeme fiyatlarını karşılaştırma
+      • Proje malzemelerini şirket deposu ile karşılaştırma, eksik malzemeler için 
+      
+        satın alım listesi oluşturma ve dış depolardaki malzeme fiyatlarını karşılaştırma
         
       • Gerektiğinde projeye malzeme ekleme, silme ve proje güncelleme
       
