@@ -34,15 +34,24 @@ Projenin Depo modülünde;
       
 # Projeye Ait Ekran Görüntüleri
 
+-----------------------------------------------------------------------------------------
+![ ](https://github.com/cemsahan/MRPYazilimi/blob/master/images/mrpLogin.png)
+-----------------------------------------------------------------------------------------
 Şirket modülü ekran görüntüleri:
------------------------------------------------------------------------------------------
-![ ](https://github.com/cemsahan/MRPYazilimi/blob/master/images/depoModulu0.png)
 ----------------------------------------------------------------------------------------- 
-![ ](https://github.com/cemsahan/MRPYazilimi/blob/master/images/depoModulu0.png)
- -----------------------------------------------------------------------------------------
-![ ](https://github.com/cemsahan/MRPYazilimi/blob/master/images/depoModulu0.png)
+![ ](https://github.com/cemsahan/MRPYazilimi/blob/master/images/sirketModulu0.png)
+ ----------------------------------------------------------------------------------------
+![ ](https://github.com/cemsahan/MRPYazilimi/blob/master/images/sirketModulu1.png)
 -----------------------------------------------------------------------------------------
-![ ](https://github.com/cemsahan/MRPYazilimi/blob/master/images/depoModulu0.png)
+![ ](https://github.com/cemsahan/MRPYazilimi/blob/master/images/sirketModulu2.png)
+-----------------------------------------------------------------------------------------
+![ ](https://github.com/cemsahan/MRPYazilimi/blob/master/images/sirketModulu3.png)
+-----------------------------------------------------------------------------------------
+![ ](https://github.com/cemsahan/MRPYazilimi/blob/master/images/sirketModulu4.png)
+-----------------------------------------------------------------------------------------
+![ ](https://github.com/cemsahan/MRPYazilimi/blob/master/images/sirketModulu5.png)
+-----------------------------------------------------------------------------------------
+![ ](https://github.com/cemsahan/MRPYazilimi/blob/master/images/sirketModulu6.png)
 -----------------------------------------------------------------------------------------
 
 
